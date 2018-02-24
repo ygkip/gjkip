@@ -16,7 +16,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 1em;
-    max-width: 10%;
+    max-width: 100%;
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: justify;
@@ -79,5 +79,7 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    font-size-body-px: 2;
+    line-height-px: 2;
   }
 }
