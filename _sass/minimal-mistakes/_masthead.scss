@@ -75,6 +75,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  @include font-size-x-large 
 
   &--lg {
     padding-right: 2em;
