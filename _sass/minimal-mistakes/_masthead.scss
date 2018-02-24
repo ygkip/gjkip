@@ -22,8 +22,6 @@
     -webkit-box-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    font-size-body-px: 2;
-    line-height-px: 2;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -81,5 +79,6 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+     @include breakpoint($small)
   }
 }
