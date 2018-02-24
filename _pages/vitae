@@ -1,0 +1,14 @@
+---
+layout: single
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/awards.jpg
+excerpt: ""
+title: "Vitae"
+permalink: /vitae/
+author_profile: true
+---
+
+<embed src="https://github.com/gjkip/files/blob/master/Georges.Kipouros.CV.pdf" type="application/pdf" />
