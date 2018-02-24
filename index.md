@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [Nate Bell](https://unsplash.com/@n8bell34)"
-title: "Welcomes"
+title: "Welcome"
 intro: 
 permalink: /
 ---
