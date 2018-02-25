@@ -12,5 +12,5 @@ author_profile: true
 ---
 
 <div>
- <embed src="raw.github.com/gjkip/files/master/Georges.Kipouros.CV.pdf" width="600px" height="500px" />
+ <embed src="https://docs.google.com/gview?url=raw.github.com/gjkip/files/master/Georges.Kipouros.CV.pdf" width="600px" height="500px" />
 </div>
