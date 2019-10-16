@@ -18,7 +18,7 @@ I am Professor Emeritus at University of **Saskatchewan**, Adjunct Professor in 
 My research interests lie in Materials and Metallurgical Engineering. My primary interests include the electrochemical engineering of molten salt electrolysis, the thermodynamic and electrochemical as well as spectroscopic properties of reactive metal halide systems, corrosion, recycling of reactive metals, utilization of minerals in metal matrix composites, powder metallurgy, and additive manufacturing, others.
 
 
-An up to date cv can always be found at [cv.kipouros.ca](http://cv.kipouros.ca/)
+An up to date cv can always be found [here](https://drive.google.com/file/d/1W6vDI0nNVOp6rN6-W1IDMc_vfBlfT4Al/view)
 
 
 I am a citizen of Canada and Greece. I collaborate with researchers across the globe, including the USA, the EU, Japan, India, Pakistan, and China. 
